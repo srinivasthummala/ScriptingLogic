@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="QAF Demo" verbose="0">
+
+<!-- 	<parameter name="driver.name" value="firefoxDriver" /> -->
+	<test name="java Test" enabled="true">
+		<packages>
+			<package name="com.scripting.logic.test.suit">
+			</package>
+		</packages>
+
+	</test>
+
+</suite>

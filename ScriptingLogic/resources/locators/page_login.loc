@@ -1,0 +1,6 @@
+login.page.loc = {\"locator\":\"css=#login\",\"desc\":\"Login page\"}
+label.login.page.email.loc = {\"locator\":\"css=.control-label[for='email']\",\"desc\":\"Email label\"}
+text.box.login.page.email.loc = {\"locator\":\"css=#email\",\"desc\":\"email text box\"}
+label.login.page.password.loc = {\"locator\":\"css=.control-label[for='password']\",\"desc\":\"password label\"}
+text.box.login.page.password.loc = {\"locator\":\"css=#password\",\"desc\":\"Password text box\"}
+button.login.page.login.loc = {\"locator\":\"css=[name='btn_login']\",\"desc\":\"Login button\"}

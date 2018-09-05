@@ -1,0 +1,2 @@
+section.scripting.logic.header.template.loc = {\"locator\":\"css=.container-fluid\",\"desc\":\"Header section\"}
+component.scripting.logic.header.content.loc = {\"locator\":\"xpath=//div[contains(@class, 'navbar-collapse')] \",\"desc\":\"Header dropdown component\"}

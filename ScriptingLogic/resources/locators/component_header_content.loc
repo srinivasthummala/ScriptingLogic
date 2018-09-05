@@ -1,0 +1,6 @@
+list.header.content.component.navigation.loc = {\"locator\":\"xpath=ul\",\"desc\":\"Header content navigation list\"}
+list.header.options.component.options.loc = {\"locator\":\"xpath=li\",\"desc\":\"options list\"}
+name.header.option.component.loc = {\"locator\":\"xpath=a\",\"desc\":\"name\"}
+
+component.header.option.component.dropdown.optons.loc = {\"locator\":\"xpath=ul[@class='dropdown-menu']/li\",\"desc\":\"dropdown options\"}
+name.options.component.loc = {\"locator\":\"xpath=a\",\"desc\":\"name\"}
